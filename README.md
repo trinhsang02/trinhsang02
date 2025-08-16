@@ -3,14 +3,16 @@
 <h2>🔍 About Me</h2>
 <p align="left">I’m a Software Engineering student at the University of Information Technology (UIT) with a strong passion for creating clean, scalable, and high-performance systems. I love transforming ideas into real, impactful products — focusing not only on functionality, but also on elegance, efficiency, and long-term maintainability. Interested in both frontend and backend development, I’m particularly motivated to explore architectures that scale effectively in production and bring real value to users.</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trinhsang02&label=Profile%20views&color=0e75b6&style=flat" alt="trinhsang02" /> </p>
+
 - 👨‍💻 All of my projects are available at [https://trinhsang02.github.io/Portfolio/](https://trinhsang02.github.io/Portfolio/)
 
 - 📫 How to reach me **trinhquangsang0220@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/sang-trịnh-35433925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sang-tr%e1%bb%8bnh-35433925a/" height="30" width="40" /></a>
-<a href="[www.facebook.com/sangtrinh02](https://www.facebook.com/sangtrinh02)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sangtrinh02" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/sangtrinh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sangtrinh02" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/sangtrinh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sangtrinh02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
