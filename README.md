@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quang Sang</h1>
-<h3 align="center">I’m a Software Engineering student at the University of Information Technology (UIT) with a strong passion for creating clean, scalable, and high-performance systems. I love transforming ideas into real, impactful products — focusing not only on functionality, but also on elegance, efficiency, and long-term maintainability. Interested in both frontend and backend development, I’m particularly motivated to explore architectures that scale effectively in production and bring real value to users.</h3>
+<h3 align="left">I’m a Software Engineering student at the University of Information Technology (UIT) with a strong passion for creating clean, scalable, and high-performance systems. I love transforming ideas into real, impactful products — focusing not only on functionality, but also on elegance, efficiency, and long-term maintainability. Interested in both frontend and backend development, I’m particularly motivated to explore architectures that scale effectively in production and bring real value to users.</h3>
 
 - 👨‍💻 All of my projects are available at [https://trinhsang02.github.io/Portfolio/](https://trinhsang02.github.io/Portfolio/)
 
